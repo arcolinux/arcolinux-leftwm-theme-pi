@@ -1,7 +1,6 @@
 border_width = 1
 margin = [1, 1]
 
-#Default ArcoLinux colors
 default_border_color = "#4c566a"
 floating_border_color = "#4c566a"
 focused_border_color = "#5e81ac"
